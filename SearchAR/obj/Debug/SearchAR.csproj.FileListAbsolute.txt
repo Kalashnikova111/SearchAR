@@ -1,0 +1,73 @@
+C:\Users\user\source\repos\SearchAR\SearchAR\bin\Debug\SearchAR.exe.config
+C:\Users\user\source\repos\SearchAR\SearchAR\bin\Debug\SearchAR.exe
+C:\Users\user\source\repos\SearchAR\SearchAR\bin\Debug\SearchAR.pdb
+C:\Users\user\source\repos\SearchAR\SearchAR\obj\Debug\SearchAR.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\SearchAR\SearchAR\obj\Debug\SearchAR.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\SearchAR\SearchAR\obj\Debug\SearchAR.Form1.resources
+C:\Users\user\source\repos\SearchAR\SearchAR\obj\Debug\SearchAR.Properties.Resources.resources
+C:\Users\user\source\repos\SearchAR\SearchAR\obj\Debug\SearchAR.csproj.GenerateResource.cache
+C:\Users\user\source\repos\SearchAR\SearchAR\obj\Debug\SearchAR.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SearchAR\SearchAR\obj\Debug\SearchAR.exe
+C:\Users\user\source\repos\SearchAR\SearchAR\obj\Debug\SearchAR.pdb
+C:\Users\user\source\repos\SearchAR\SearchAR\bin\Debug\SearchAR.mdf
+C:\Users\user\source\repos\SearchAR\SearchAR\bin\Debug\SearchAR_log.ldf
+C:\Users\Nico\source\repos\SearchAR\SearchAR\bin\Debug\SearchAR.mdf
+C:\Users\Nico\source\repos\SearchAR\SearchAR\bin\Debug\SearchAR_log.ldf
+C:\Users\Nico\source\repos\SearchAR\SearchAR\bin\Debug\SearchAR.exe.config
+C:\Users\Nico\source\repos\SearchAR\SearchAR\bin\Debug\SearchAR.exe
+C:\Users\Nico\source\repos\SearchAR\SearchAR\bin\Debug\SearchAR.pdb
+C:\Users\Nico\source\repos\SearchAR\SearchAR\obj\Debug\SearchAR.csproj.AssemblyReference.cache
+C:\Users\Nico\source\repos\SearchAR\SearchAR\obj\Debug\SearchAR.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nico\source\repos\SearchAR\SearchAR\obj\Debug\SearchAR.Form1.resources
+C:\Users\Nico\source\repos\SearchAR\SearchAR\obj\Debug\SearchAR.Properties.Resources.resources
+C:\Users\Nico\source\repos\SearchAR\SearchAR\obj\Debug\SearchAR.csproj.GenerateResource.cache
+C:\Users\Nico\source\repos\SearchAR\SearchAR\obj\Debug\SearchAR.csproj.CoreCompileInputs.cache
+C:\Users\Nico\source\repos\SearchAR\SearchAR\obj\Debug\SearchAR.exe
+C:\Users\Nico\source\repos\SearchAR\SearchAR\obj\Debug\SearchAR.pdb
+C:\Users\Nico\source\repos\SearchAR\SearchAR\bin\Debug\searchar.accdb
+D:\Дипломная работа\Прога и БД\1\SearchAR\SearchAR\bin\Debug\searchar.accdb
+D:\Дипломная работа\Прога и БД\1\SearchAR\SearchAR\bin\Debug\SearchAR.mdf
+D:\Дипломная работа\Прога и БД\1\SearchAR\SearchAR\bin\Debug\SearchAR_log.ldf
+D:\Дипломная работа\Прога и БД\1\SearchAR\SearchAR\bin\Debug\SearchAR.exe.config
+D:\Дипломная работа\Прога и БД\1\SearchAR\SearchAR\bin\Debug\SearchAR.exe
+D:\Дипломная работа\Прога и БД\1\SearchAR\SearchAR\bin\Debug\SearchAR.pdb
+D:\Дипломная работа\Прога и БД\1\SearchAR\SearchAR\obj\Debug\SearchAR.csproj.AssemblyReference.cache
+D:\Дипломная работа\Прога и БД\1\SearchAR\SearchAR\obj\Debug\SearchAR.csproj.SuggestedBindingRedirects.cache
+D:\Дипломная работа\Прога и БД\1\SearchAR\SearchAR\obj\Debug\SearchAR.Form1.resources
+D:\Дипломная работа\Прога и БД\1\SearchAR\SearchAR\obj\Debug\SearchAR.Properties.Resources.resources
+D:\Дипломная работа\Прога и БД\1\SearchAR\SearchAR\obj\Debug\SearchAR.csproj.GenerateResource.cache
+D:\Дипломная работа\Прога и БД\1\SearchAR\SearchAR\obj\Debug\SearchAR.csproj.CoreCompileInputs.cache
+D:\Дипломная работа\Прога и БД\1\SearchAR\SearchAR\obj\Debug\SearchAR.exe
+D:\Дипломная работа\Прога и БД\1\SearchAR\SearchAR\obj\Debug\SearchAR.pdb
+C:\Users\user\Desktop\SearchAR\SearchAR\bin\Debug\searchar.accdb
+C:\Users\user\Desktop\SearchAR\SearchAR\bin\Debug\SearchAR.mdf
+C:\Users\user\Desktop\SearchAR\SearchAR\bin\Debug\SearchAR_log.ldf
+C:\Users\user\Desktop\SearchAR\SearchAR\bin\Debug\SearchAR.exe.config
+C:\Users\user\Desktop\SearchAR\SearchAR\bin\Debug\SearchAR.exe
+C:\Users\user\Desktop\SearchAR\SearchAR\bin\Debug\SearchAR.pdb
+C:\Users\user\Desktop\SearchAR\SearchAR\obj\Debug\SearchAR.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\SearchAR\SearchAR\obj\Debug\SearchAR.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\SearchAR\SearchAR\obj\Debug\SearchAR.Form1.resources
+C:\Users\user\Desktop\SearchAR\SearchAR\obj\Debug\SearchAR.Properties.Resources.resources
+C:\Users\user\Desktop\SearchAR\SearchAR\obj\Debug\SearchAR.csproj.GenerateResource.cache
+C:\Users\user\Desktop\SearchAR\SearchAR\obj\Debug\SearchAR.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SearchAR\SearchAR\obj\Debug\SearchAR.exe
+C:\Users\user\Desktop\SearchAR\SearchAR\obj\Debug\SearchAR.pdb
+C:\Users\user\Desktop\SearchAR\SearchAR\obj\Debug\SearchAR.Form2.resources
+C:\Users\user\Desktop\SearchAR\SearchAR\bin\Debug\searchar.mdb
+G:\Дипломная работа\Прога и БД\2\SearchAR\SearchAR\bin\Debug\searchar.accdb
+G:\Дипломная работа\Прога и БД\2\SearchAR\SearchAR\bin\Debug\searchar.mdb
+G:\Дипломная работа\Прога и БД\2\SearchAR\SearchAR\bin\Debug\SearchAR.mdf
+G:\Дипломная работа\Прога и БД\2\SearchAR\SearchAR\bin\Debug\SearchAR_log.ldf
+G:\Дипломная работа\Прога и БД\2\SearchAR\SearchAR\bin\Debug\SearchAR.exe.config
+G:\Дипломная работа\Прога и БД\2\SearchAR\SearchAR\bin\Debug\SearchAR.exe
+G:\Дипломная работа\Прога и БД\2\SearchAR\SearchAR\bin\Debug\SearchAR.pdb
+G:\Дипломная работа\Прога и БД\2\SearchAR\SearchAR\obj\Debug\SearchAR.csproj.AssemblyReference.cache
+G:\Дипломная работа\Прога и БД\2\SearchAR\SearchAR\obj\Debug\SearchAR.csproj.SuggestedBindingRedirects.cache
+G:\Дипломная работа\Прога и БД\2\SearchAR\SearchAR\obj\Debug\SearchAR.Form1.resources
+G:\Дипломная работа\Прога и БД\2\SearchAR\SearchAR\obj\Debug\SearchAR.Form2.resources
+G:\Дипломная работа\Прога и БД\2\SearchAR\SearchAR\obj\Debug\SearchAR.Properties.Resources.resources
+G:\Дипломная работа\Прога и БД\2\SearchAR\SearchAR\obj\Debug\SearchAR.csproj.GenerateResource.cache
+G:\Дипломная работа\Прога и БД\2\SearchAR\SearchAR\obj\Debug\SearchAR.csproj.CoreCompileInputs.cache
+G:\Дипломная работа\Прога и БД\2\SearchAR\SearchAR\obj\Debug\SearchAR.exe
+G:\Дипломная работа\Прога и БД\2\SearchAR\SearchAR\obj\Debug\SearchAR.pdb
